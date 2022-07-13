@@ -1,0 +1,6 @@
+pytesseract==0.3.9
+opencv-python==4.6.0.66
+numpy==1.23.0
+matplotlib==3.5.2
+Pillow==9.2.0
+flask==2.1.2
